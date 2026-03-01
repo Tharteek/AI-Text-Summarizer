@@ -1,0 +1,11 @@
+sentencepiece
+torch
+transformers
+datasets
+evaluate
+rouge_score
+pandas
+tqdm
+nltk
+accelerate
+streamlit
